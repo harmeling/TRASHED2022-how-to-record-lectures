@@ -1,4 +1,4 @@
-# How to record lectures
+# How to record lectures with minimal after-edits
 (author: Stefan Harmeling, created: 2020-09-02, license: CC BY-SA 4.0)
 
 There does exist quite a bit of information about this topic at the HHU
