@@ -165,20 +165,20 @@ camera is placed in the front or second row and then just show the
 video of that camera on the screen to include it in your lecture video.
 
 **Note**: the only problem with this setup is that also the beamer
-will project the video of yourselves, but it almost completely
-simplifies the afteredits.
+will project the video of yourselves, but it almost eliminates the
+video editing afterwards.
 
 ## Externals microphones?
 
-**Problem**: sound from the internal microphone might not be good,
+**Problem**: sound from the internal microphone might not be great,
 especially when you walk around in a classroom 
 
 **Solution**: get a better microphone!  I use a Rode NT-USB-mini for
 home made lectures (and video conferences), but there are many
 alternatives.  After plugging it in you can select it in Camtasia's
 recording dialog and check the level.  For classroom I use a
-"Sennheiser XSW2-ME2 E", which is a wireless microphone with some
-receiver that is then connected with a "LINE 2 USB Behringer" cable
-that connects directly to the USB of the laptop.
+"Sennheiser XSW2-ME2 E", which is a wireless lavalier microphone with
+a (non-battery) receiver that is then connected with a "LINE 2 USB
+Behringer" cable that connects directly to the USB of the laptop.
 
-END of the text (for now)
+**END** of the text (for now)
