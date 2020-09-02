@@ -46,7 +46,7 @@ out the high resolution to disk.
 
 **Solution**: use the App "Display Menu.app" to reduce the resolution.
 E.g. on my laptop there are in that application two options with
-1280x800 one with a white-background 16:9 icon, one with a dark one.
+1280x800 one with a white-background "16:9" icon, one with a dark one.
 Choose the dark one (as explained in its documentation)!  In
 Camtasia's recording dialog you should see the "real" numbers of the
 resolution you are about the record.  So try this with Retina, you see
@@ -69,7 +69,7 @@ also a good format for uploading to the mediathek website (so less
 editing required afterwards).
 
 **Note**: also presenting in fullscreen removes the menubar, but the
-chop out setup has the added value, that you can show during the
+chop-out-setup has the added value, that you can show during the
 lecture other information (e.g. a website or your text editor for live
 programming or a youtube video) and everything will be recorded by
 Camtasia.
@@ -78,7 +78,7 @@ Camtasia.
 
 **Problem**: after the recording you would like to get rid of some
 passages of your video, but how can you quickly find the exact
-locations afterwards in the editor of Camtasia?  wrongly?
+locations afterwards in the editor of Camtasia?
 
 **Solution**: let a timer/stopwatch (with seconds) run in the menubar
 (e.g. Horo.app works well, or put a stopwatch on your table).  If you
