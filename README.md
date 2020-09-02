@@ -26,12 +26,12 @@ a Mac.
 
 ## Simplest setup / more details
 
-**hardware**: a laptop with builtin microphone (I use a 2014 Macbook
+**Hardware**: a laptop with builtin microphone (I use a 2014 Macbook
 Pro)
 
-**software**: Camtasia
+**Software**: Camtasia
 
-**steps**: 
+**Steps**: 
 1. start Camtasia to record the screen and the microphone, it let's
    you select what to record, just choose screen and mic.
 2. give the lecture using Powerpoint, Keynote, Preview (PDF), ...
