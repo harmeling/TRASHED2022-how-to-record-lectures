@@ -8,7 +8,7 @@ wiki, e.g.
 * https://wiki.hhu.de/pages/viewpage.action?pageId=160268766
 * https://wiki.hhu.de/pages/viewpage.action?pageId=160268775
 
-In particular, the colleagues from the Multimediazentrum are really
+In particular, the colleagues from the Multimediazentrum (MMZ@HHU) are really
 helpful with many questions I had.
 
 Here are simple setups that I use to record my lectures with
