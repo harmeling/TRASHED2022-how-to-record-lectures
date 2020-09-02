@@ -1,10 +1,5 @@
-title: How to record lectures
-author: Stefan Harmeling
-created: 2020-09-02
-
 # How to record lectures
-(Author: Stefan Harmeling)
-(created: 2020-09-02)
+(author: Stefan Harmeling, created: 2020-09-02)
 
 There does exist quite a bit of information about this topic at the HHU
 wiki, e.g.
