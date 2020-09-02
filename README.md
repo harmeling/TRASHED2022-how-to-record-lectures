@@ -102,7 +102,7 @@ in the middle of the lower part.  Right next to that button is a down
 arrow, looking like a "v".  Click on it and choose "ipad".  Now the
 window should show everything you are doing on the ipad.  Now if
 during your Powerpoint presentation you want to show some handwriting
-(e.g. deriving P=NP), just switch to the "Quicktime Player"
+(e.g. deriving P=NP for N=1), just switch to the "Quicktime Player"
 application and start writing.  After that just switch back to your
 presentation.  Camtasia will record everything it sees on the screen,
 so also your handwriting will be recorded.
@@ -126,9 +126,9 @@ recording files are much bigger than those of "Camtasia".
 editing?
 
 **Solution**: of course Camtasia can also record your webcam in
-addition to the screen in separate tracks.  Howevever, you would have
+addition to the screen in separate tracks.  However, you would have
 to do some editing afterwards to show it in the corner of the final
-video.  However, there is a simpler solution.  Just start a program
+video.  There is a simpler solution.  Just start a program
 that shows the video of the webcam in some window and position it on
 your screen.  For this to work nicely, your presentation program
 should also run the presentation in a window.  Preview (PDF) can do
@@ -139,13 +139,13 @@ in Window".
 
 **Note**: what program to use to the video of the webcam?  I use
 "Visualizer" from IPEVO (however, lately it was showing ads, if you
-don't own an IPEVO, not sure whether they removed this "bug").  If you
-are familar with the commandline and python/opencv you could also use
+don't own an IPEVO, not sure whether they removed that "bug").  If you
+are familiar with the commandline and python/opencv you could also use
 a little script that Tobias Uelwer and I wrote for this purpose.  It
-allows you to also choose the aspect ratio, mirror the image, make it
-grayscale.  The script is called `webcam-sh.py` and is included in
-this repository.  Start it with `python webcam-sh.py` or with
-parameters, e.g.
+allows you to also choose the aspect ratio, crop and mirror the image,
+make it grayscale.  The script is called `webcam-sh.py` and is
+included in this repository.  Start it with `python webcam-sh.py` or
+with parameters, e.g.
 
     python webcam-sh.py -p 0 223 -s 0.302500 -c 300 0 680 720
 
@@ -159,10 +159,10 @@ next time to get the settings immediately.
 screen (instead of editing it into the video afterwards) in classroom?
 
 **Solution**: get an external camera for this purpose!  I use an IPEVO
-V4K USB document camera with an 5 meter USB extension cable (this is
+V4K USB document camera with a 5 meter USB extension cable (this is
 at the limit of USB, try a shorter one if it is not working).  The
 camera is placed in the front or second row and then just show the
-video of that camera on the screen.
+video of that camera on the screen to include it in your lecture video.
 
 **Note**: the only problem with this setup is that also the beamer
 will project the video of yourselves, but it almost completely
