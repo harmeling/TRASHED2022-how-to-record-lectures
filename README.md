@@ -14,7 +14,17 @@ helpful with many questions I had.
 Here are simple setups that I use to record my lectures with
 a Mac.
 
-## Simplest setup
+
+## TLDR / useful software
+* Camtasia (to record screen and mic)
+* Display Menu (to reduce the screen resolution to non-retina)
+* Quicktime Player (to show handwriting on an ipad)
+* Paper (on ipad for handwriting)
+* Visualizer (for showing the webcam in a window)
+* Apptivate (to switch between programs with function keys)
+* Horo (to show a stopwatch in the menubar)
+
+## Simplest setup / more details
 
 **hardware**: a laptop with builtin microphone (I use a 2014 Macbook
 Pro)
@@ -102,7 +112,7 @@ in the middle of the lower part.  Right next to that button is a down
 arrow, looking like a "v".  Click on it and choose "ipad".  Now the
 window should show everything you are doing on the ipad.  Now if
 during your Powerpoint presentation you want to show some handwriting
-(e.g. deriving P=NP for N=1), just switch to the "Quicktime Player"
+(e.g. deriving `P=NP` for `N=1`), just switch to the "Quicktime Player"
 application and start writing.  After that just switch back to your
 presentation.  Camtasia will record everything it sees on the screen,
 so also your handwriting will be recorded.
