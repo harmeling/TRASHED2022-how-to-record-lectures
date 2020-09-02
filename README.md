@@ -1,5 +1,5 @@
 # How to record lectures
-(author: Stefan Harmeling, created: 2020-09-02)
+(author: Stefan Harmeling, created: 2020-09-02, license: CC BY-SA 4.0)
 
 There does exist quite a bit of information about this topic at the HHU
 wiki, e.g.
